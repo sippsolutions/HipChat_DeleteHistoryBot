@@ -2,6 +2,7 @@
 Deletes your chat history in HipChat
 
 Usage:
+
 1. Open http://hipchat.com/ in your browser
 2. Log in
 3. Click on a chat room or person you want to delete your chat history from
