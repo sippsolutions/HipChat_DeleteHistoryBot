@@ -26,7 +26,7 @@ var deleteBot = {
         if (!forms.length) {
             deleteBot.goNext();
         } else {
-            deleteBot.getForms().each(function (i, form) {
+            forms.each(function (i, form) {
                 deleteBot.remove(deleteBot.jq(form));
             });
         }
